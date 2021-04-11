@@ -60,7 +60,7 @@ function check(ans, n) {
 }
 var score = 0;
 
-console.log("Welcome to the Javascript Quiz! Good Luck :D");
+console.log(chalk.inverse("Welcome to the Javascript Quiz! Good Luck :D"));
 for (let i = 0; i < questions.length; i++) {
   let ans = read.question(questions[i].question);
   check(ans, i);

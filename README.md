@@ -4,7 +4,7 @@ This is a very fun and basic CLI project, Here there are a set of 10 questions a
 
 🔗Live Link🔗 [JavaScript Quiz App](https://replit.com/@shobit1337/Quiz-App-JavaScript?embed=1&output=1)
 
-> Note: This project was build by me from scratch. It is markTwo project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markTwo project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
